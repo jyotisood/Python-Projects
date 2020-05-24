@@ -1,12 +1,12 @@
 # Python-Projects 
 
-## These Mini Projects are a part of DataCamp Project Series where different applications of Machine Learning Libraries are put
-## to test asking questions related to real world scenarios 
+### These Mini Projects are a part of DataCamp Project Series where different applications of Machine Learning are put to test asking questions related to real world scenarios
 
 
 ### A Visual History of Nobel Prize Winners
 In this project, we explore patterns and trends in over 100 years worth of Nobel Prize winners. What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? It's up to you to figure this out.
-The dataset used in this project is from The Nobel Foundation on Kaggle.
+
+####### The dataset used in this project is from The Nobel Foundation on Kaggle.
 
 ###### Project tasks  included:
 - The most Nobel of Prizes
@@ -22,9 +22,9 @@ The dataset used in this project is from The Nobel Foundation on Kaggle.
 - You get a prize!
 
 ### Find Movie Similarity from Plot Summaries
-Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, you will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
+Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, we will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
 
- ###### This Project lets you apply the skills fromNatural Language Processing Fundamentals in Python and Unsupervised Learning in Python. 
+ ###### This Project lets us apply the skills from Natural Language Processing Fundamentals in Python and Unsupervised Learning in Python. 
 
 The dataset contains the titles of the top 100 movies on IMDb as well as each movie's plot summary from both IMDb and Wikipedia.
 
@@ -79,9 +79,9 @@ As players progress through the game they will encounter gates that force them t
 
 
 ### Predicting Credit Card Approvals
-Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, you will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
+Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, we build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
 
-The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
+###### The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
 
 ###### Project tasks  include:
 - Credit card applications
@@ -139,7 +139,7 @@ In this project, we  apply the Sharpe ratio to real financial data using pandas.
 
 ### The Hottest Topics in Machine Learning
 
-Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. In this Project, you will analyze a large collection of NIPS research papers from the past decade to discover the latest trends in machine learning. The techniques used here to handle large amounts of data can be applied to other text datasets as well.
+Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. In this Project, we analyze a large collection of NIPS research papers from the past decade to discover the latest trends in machine learning. The techniques used here to handle large amounts of data can be applied to other text datasets as well.
 
 ###### Project tasks  include:
 - Loading the NIPS papers
@@ -152,7 +152,7 @@ Neural Information Processing Systems (NIPS) is one of the top machine learning 
 - The future of machine learning
 
 ### Up and Down With the Kardashians
-In this Project, you will explore the data underneath the hype in the form of search interest data from Google Trends. You'll recreate the Google Trends plot to visualize their ups and downs over time, then make a few custom plots of your own. And you'll answer the big question: is Kim even the most famous sister anymore?
+In this Project, we explore the data underneath the hype in the form of search interest data from Google Trends. We recreate the Google Trends plot to visualize their ups and downs over time, then make a few custom plots. And we answer the big question: is Kim even the most famous sister anymore?
 
 ###### Project tasks  include:
 - The sisters and Google Trends
